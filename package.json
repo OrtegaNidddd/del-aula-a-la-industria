@@ -1,0 +1,19 @@
+{
+  "name": "test-programmer",
+  "version": "1.0.0",
+  "description": "Test Programmer - Del Aula a la Industria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrtegaNidddd/del-aula-a-la-industria.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrtegaNidddd/del-aula-a-la-industria/issues"
+  },
+  "homepage": "https://github.com/OrtegaNidddd/del-aula-a-la-industria#readme"
+}
